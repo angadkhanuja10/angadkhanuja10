@@ -1,18 +1,19 @@
-## Hi there 👋
+# Hi, I'm Angad Khanuja
 
-<!--
-**angadkhanuja10/angadkhanuja10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Branch: Computer Science Engineering  
+- Year: 2nd Year  
+- Location: India  
 
-Here are some ideas to get you started:
+## Skills & Interests
+- Programming: Python, C++, Basics of Machine Learning  
+- Interests: AI, Data Science, Software Development  
+- Tools: Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ... hmmm
-- 🌱 I’m currently learning ...hmm
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning Goals
+I aim to strengthen my understanding of data structures, machine learning, and real-world project development while improving my problem-solving skills.
 
-
+## Current Focus
+- Working on academic and personal projects  
+- Exploring machine learning models  
+- Improving coding consistency    
